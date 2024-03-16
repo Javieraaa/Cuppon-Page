@@ -1,0 +1,44 @@
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+.logo-navbar {
+    width: 120px;
+}
+
+i,
+.geo-info {
+    color: #707070;
+    font-size: 15px;
+}
+
+.marca,
+.precio {
+    color: #707070;
+}
+
+h1 {
+    color: #212529;
+    font-size: 20px;
+    font-weight: 300 !important;
+}
+
+.imagenh {
+    height: 250px;
+}
+
+footer img {
+    width: 25vw;
+}
+
+.footer-text {
+    font-size: 18px;
+    font-weight: 300;
+    color: #707070;
+}
+
+/* Hola Solange, los font-weight que no estan en css se añadieron 
+como clases de bootstrap en el html autorizado por la profe, gracias :3 */
